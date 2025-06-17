@@ -10,7 +10,7 @@
 ## 🚀 Sobre mim
 
 - 🔭 Atualmente trabalho com desenvolvimento de software
-- 🌱 Aprimorando conhecimentos em **.NET, Angulare e Docker**
+- 🌱 Aprimorando conhecimentos em **.NET, Angular e Docker**
 - 💡 Sempre curioso por DevOps, backend robusto e frontend elegante
 - 🧠 Aprendendo todos os dias
 - ⚡ Curiosidade: Amo tecnologia, café ☕ e desafios
