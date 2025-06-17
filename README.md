@@ -51,8 +51,6 @@
   </a>
 </p>
 
-![Snake animation](https://github.com/Ryan-Mamede/Ryan-Mamede/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ⭐️ **Sinta-se à vontade para explorar meus projetos, contribuir e trocar ideias!**
